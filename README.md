@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Appplied Machine Learning by Michigan University Course by Coursera.
 - I More and More Learn about Python and Django.
 - I like Solve Excellent Approuch to Solve Problems with Python and Django.
-- Write More Python Code.
+- Write More Pythonic Python Code.
 
 <!---
 AVIPAGHADAR1729/AVIPAGHADAR1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
